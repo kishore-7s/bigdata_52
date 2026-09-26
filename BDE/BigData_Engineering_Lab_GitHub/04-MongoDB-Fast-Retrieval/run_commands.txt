@@ -1,0 +1,2 @@
+mongosh < mongo_bulk_insert.js
+mongosh < mongo_query_test.js

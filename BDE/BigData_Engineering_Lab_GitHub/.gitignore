@@ -1,0 +1,21 @@
+# Java/Hadoop build outputs
+*.class
+*.jar
+classes/
+output/
+# Hadoop runtime data
+data/namenode/
+data/datanode/
+# MongoDB runtime data/logs
+*/db/
+*.log
+# Python
+__pycache__/
+*.pyc
+.venv/
+# R
+.Rhistory
+.RData
+# OS
+.DS_Store
+Thumbs.db
